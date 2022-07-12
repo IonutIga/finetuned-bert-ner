@@ -1,0 +1,26 @@
+Microsoft Corporation
+IBM
+Accenture
+Oracle
+SAP
+TCS-Tata Consultancy Services
+DXC
+Delloite Consulting
+Apple
+UIPath
+Samsung
+Endava
+UBB
+FSEGA
+Lenovo
+Panasonic
+LG Electronics
+Huawei
+Samsung Electronics
+Meta
+Tesla
+Binance
+Coinbase
+Crypto.com
+Toyota Motor
+Volkswagen AG
